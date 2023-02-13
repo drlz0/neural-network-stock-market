@@ -1,2 +1,3 @@
-# neural-network-stock-market
-Neural network that predicts a company's closing price the next day
+# Neural network for stock market
+
+Predicts a company's closing price the next day
